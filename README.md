@@ -18,7 +18,7 @@ npm install
 ### ⚙️ Adım 2: Yapılandırma  
 gerekli kısımları doldurun 
 
-### 🚀 Adım 3: Botu Başlat  
+### 🚀 Adım 3: Siteyi Başlat  
 ```bash  
 npm run dev
 ```  
